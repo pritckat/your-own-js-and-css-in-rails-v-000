@@ -1,7 +1,7 @@
-a.error {
-  text: red
+.error {
+  color: red;
 }
 
-body.cool_background {
-
+.cool_background {
+  background-color: grey;
 }
